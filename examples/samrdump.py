@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Impacket - Collection of Python classes for working with network protocols.
-#
+# My Fork of this so I can have easy access to it in future pentests
+# A great tool for SMB Enumeration
 # Copyright (C) 2022 Fortra. All rights reserved.
 #
 # This software is provided under a slightly modified version
